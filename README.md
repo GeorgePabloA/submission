@@ -1,6 +1,6 @@
-# submission
-
-# How To Run The Dashboard
+# Submission
+## Setup Environment
+### How To Run The Dashboard
 ```Powershell
 
 cd path/to/submission
@@ -14,7 +14,7 @@ pip install - requirements.txt
 
 ```
 
-# How to Run Streamlit App
+### How to Run Streamlit App
 ```Powershell
 cd dashboard
 streamlit run dashboard.py
