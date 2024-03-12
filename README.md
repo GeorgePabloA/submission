@@ -18,7 +18,7 @@ pip install - requirements.txt
 ```Powershell
 cd dashboard
 streamlit run dashboard.py
-ctel+c
+ctrl+c
 ```
 
 ### To Close Virtual Environtment
