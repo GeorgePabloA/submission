@@ -4,7 +4,7 @@ import seaborn as sns
 import numpy as np
 import streamlit as st
 
-all_df = pd.read_csv("all.csv")
+all_df = pd.read_csv("https://raw.githubusercontent.com/GeorgePabloA/submission/main/dashboard/all.csv")
 
 st.title('Belajar Analisis Data')
  
