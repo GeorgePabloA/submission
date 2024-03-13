@@ -17,7 +17,7 @@ pip install - requirements.txt
 ### How to Run Streamlit App
 ```Powershell
 cd dashboard
-streamlit run dashboard.py
+streamlit run dashboard/test_streamlit4.py
 ctrl+c
 ```
 
